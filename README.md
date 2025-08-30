@@ -1,17 +1,38 @@
-# Olá, eu sou o Éverton! 👋
+<!-- Banner de Apresentação -->
+<h1 align="center">👋 Olá, eu sou o Éverton!</h1>
+<h3 align="center">Estudante de Desenvolvimento Full Stack | Python Lover 🐍</h3>
 
-Estudante de Desenvolvimento Full Stack, apaixonado por Python e por transformar ideias em código.  
-Florianópolis/SC 🌴 | Café na mão ☕ | Surf nas horas vagas 🏄‍♂️
+<p align="center">
+  Florianópolis/SC 🌴 | Café na mão ☕ | Surf nas horas vagas 🏄‍♂️
+</p>
 
 ---
 
-## 🧰 Minhas Tecnologias
+## 🚀 Sobre mim
+Sou estudante de *Desenvolvimento Full Stack*, apaixonado por tecnologia e pela transformação que ela pode gerar.  
+Minha linguagem favorita é *Python*, mas estou sempre explorando novas ferramentas e linguagens.  
 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
-[![GitHub Repos](https://img.shields.io/github/repos/evertonfreitas909?style=flat-square)](https://github.com/evertonfreitas909)  
-[![GitHub Followers](https://img.shields.io/github/followers/evertonfreitas909?style=social)](https://github.com/evertonfreitas909)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfreitas909&layout=compact&theme=react)
+## 🧰 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evertonfreitas909&show_icons=true&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfreitas909&layout=compact&theme=react" height="150"/>
+</p>
 
 ---
 
@@ -22,20 +43,39 @@ Florianópolis/SC 🌴 | Café na mão ☕ | Surf nas horas vagas 🏄‍♂️
 
 ---
 
-## 🏄‍♂️ Fora do Código
+## 🏄 Fora do Código
 
-Quando não estou programando, você me encontra surfando pelas praias de Florianópolis 🌊  
+<p align="center">
+  Quando não estou programando, você me encontra pegando onda em Florianópolis 🌊  
+</p>
 
-![Surf GIF](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
-
----
-
-## 📬 Contato
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonrfreitas)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/evertonfreitas909)  
-📧 everton@email.com
+<p align="center">
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="300"/>
+</p>
 
 ---
 
-"Estudando hoje para co
+## 📬 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/evertonrfreitas">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/evertonfreitas909">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <strong>everton@email.com</strong>
+</p>
+
+---
+
+<p align="center">
+  <em>"Estudando hoje para codar melhor amanhã!"</em>
+</p>
+
+
+
+
